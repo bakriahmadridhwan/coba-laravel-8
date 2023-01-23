@@ -67,7 +67,7 @@
 
 <body>
     <div class="container">
-        <h1>BAKRI AHMAD RIDHWAN</h1>
+        <h1>BAKRI</h1>
     </div>
 </body>
 
